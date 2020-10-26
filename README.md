@@ -9,7 +9,7 @@ The resources will be classified into following categories:
 
 ## 1. Robotics
 #### 1. KUKA IIWA Training
-![kuka image](/01_images/01_unsw_kuka_iiwa.JPG)
+![UNSW](01_images/01_unsw_kuka_iiwa.JPG)
 
 [UNSW Making](https://www.making.unsw.edu.au/learn/) has two great courses on Basic KUKA IIWA training with fundamental robot setup with KUKA PRC in Grasshopper.
 * [Kuka LBR iiwa Basic Learn Module](https://www.making.unsw.edu.au/learn/kuka-lbr-iiwa-learn-module/)
