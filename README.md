@@ -18,4 +18,11 @@ The resources will be classified into following categories:
 ## 2. AI and ML
 ## 3. Prototyping
 ## 4. Learning
+#### 1. C# Programming for Architects and Designers
+![JOSE](01_images/02_jose_c_sharp.JPG)
+
+[Jose Luis](https://github.com/garciadelcastillo) has created a fantastic course for learning C#. This course has been aimed at architects and designers. He also has taught, shared & uploaded full Harvard Course on Computational design. His channel Parametric Camp is an amazing place for learning computation design.  
+* [C# For Architects and Designers](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb)
+* [GSD-6338: Introduction to Computational Design (Fall 2019)](https://www.youtube.com/playlist?list=PLvxxYImPCApUXhX3te3IK32ileXHpzKY4)
+
 ## 5. Useful links
