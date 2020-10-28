@@ -15,6 +15,13 @@ The resources will be classified into following categories:
 * [Kuka LBR iiwa Basic Learn Module](https://www.making.unsw.edu.au/learn/kuka-lbr-iiwa-learn-module/)
 * [Kuka LBR iiwa Programming Learn Module](https://www.making.unsw.edu.au/learn/kuka-lbr-iiwa-programming-learn-module/)
 
+#### 2. KUKA Sunrise programming
+![KUKA SUNRISE](01_images/03_kuka_sunrise.JPG)
+
+[Discovering Robotics](https://www.youtube.com/channel/UCUpAYPzgvBLT4q2r1JPZkcg/playlists) has two very useful playlist of 12 Videos of  getting started with KUKA Sunrise Programming and Sunrise Workbench.
+* [KUKA Sunrise Workbench Getting Started](https://www.youtube.com/playlist?list=PLsZwlq7W-FY48xAJDllP8ag73LcWurlPQ)
+* [KUKA Sunrise Programming](https://www.youtube.com/playlist?list=PLsZwlq7W-FY4iW3ZXMfBM4qdBdiGLEL9K)
+
 ## 2. AI and ML
 ## 3. Prototyping
 ## 4. Learning
