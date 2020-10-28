@@ -22,6 +22,14 @@ The resources will be classified into following categories:
 * [KUKA Sunrise Workbench Getting Started](https://www.youtube.com/playlist?list=PLsZwlq7W-FY48xAJDllP8ag73LcWurlPQ)
 * [KUKA Sunrise Programming](https://www.youtube.com/playlist?list=PLsZwlq7W-FY4iW3ZXMfBM4qdBdiGLEL9K)
 
+### 3. Laser Scanning with Industrial Robot Arm for Raw-wood Fabrication
+![Laser Scanning](01_images/04_isarc_paper_55_ibios_EPFL.JPG)
+
+Paper and Presentation of robotic raw wood processing and fabrication by [**IBIOS EPFL**](https://www.epfl.ch/labs/ibois/)
+* [**Video**](https://vimeo.com/472534793)
+ | [**Paper**](https://www.iaarc.org/publications/2020_proceedings_of_the_37th_isarc/laser_scanning_with_industrial_robot_arm_for_raw_wood_fabrication.html)
+
+
 ## 2. AI and ML
 ## 3. Prototyping
 ## 4. Learning
